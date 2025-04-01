@@ -56,4 +56,5 @@ body {
   font-family: 'Heebo', sans-serif;
   position: absolute;
   right: 20px;
+  cursor: pointer;
 }
