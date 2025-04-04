@@ -67,9 +67,13 @@ position: absolute;
   background-color: var(--dark-color);
 }
 
+.picture {
+position: absolute;
+}
+
 .first {
   padding: 30px;
-  position: absolute;
+
 }
 
 .second {
