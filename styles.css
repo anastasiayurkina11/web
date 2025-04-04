@@ -74,27 +74,17 @@ position: absolute;
 
 .second {
   float: left;
-  margin-left: 250px;
-  margin-top: 125px
 }
 
 .second h2 {
   font-family: 'Heebo', sans-serif;
   color: white;
-  width: 350.73px;
-  height: 76px;
-  left: 344px;
-  top: 493px;
 }
 
 .third h1 {
   /* cross fit */
 
   position: absolute;
-  width: 1779.97px;
-  height: 558px;
-  left: 71px;
-  top: 461px;
   font-family: 'Heebo', sans-serif;
   color: white;
   font-size: 200px;
