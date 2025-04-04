@@ -55,7 +55,7 @@ font-weight: 500;
   padding: 7px 15px;
   font-size: 12px;
   font-family: 'Heebo', sans-serif;
-position: absolute;
+  position: absolute;
   right: 20px;
   cursor: pointer;
 }
@@ -69,6 +69,7 @@ position: absolute;
 
 .picture {
 position: absolute;
+margin: 30px;
 }
 
 .first {
@@ -78,6 +79,8 @@ position: absolute;
 
 .second {
   float: left;
+  position: absolute;
+  margin-left: 20px;
 }
 
 .second h2 {
