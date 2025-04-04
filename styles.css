@@ -81,7 +81,6 @@ width: 100%;
 }
 
 .second {
-  float: left;
   position: absolute;
   margin-left: 20px;
 }
@@ -91,10 +90,14 @@ width: 100%;
   color: white;
 }
 
+third {
+  position: absolute;
+  margin: 30px;
+  width: 100%;
+}
+
 .third h1 {
   /* cross fit */
-
-  position: absolute;
   font-family: 'Heebo', sans-serif;
   color: white;
   font-size: 200px;
